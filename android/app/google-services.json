@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953827341499",
+    "project_id": "haven-glen",
+    "storage_bucket": "haven-glen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953827341499:android:b2c62864e3a54ee550e59e",
+        "android_client_info": {
+          "package_name": "com.example.haven_glen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzNhjYSz4XWJNcG39e5QS2dlRaEJUDDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
